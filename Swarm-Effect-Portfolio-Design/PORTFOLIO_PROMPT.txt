@@ -1,0 +1,9 @@
+I've attached PORTFOLIO_BUILDER.md. Follow it exactly to build my personal portfolio website.
+
+1. Start by interviewing me using Section 2. Ask a few questions at a time, suggest defaults, and let me skip anything I don't have.
+2. Use only the information and files I give you. Don't invent anything, and hide any section I have no data for.
+3. Before you build, show me a summary of everything you collected and wait for my confirmation.
+4. Build the complete project, including the Builder Swarm, then run the verification checklist in Section 10.
+5. When you're done, tell me where to edit my details, how to deploy, and what you tested and couldn't test.
+
+Let's start.
